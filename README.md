@@ -1,3 +1,3 @@
 # ESTUDOS C#
 
-Este repositorio esta sendo constantemente atualizado para servir como uma preparamento com tecnologias Mycrosoft.
+Este repositorio esta sendo constantemente atualizado para servir como um preparamento com tecnologias Mycrosoft.
